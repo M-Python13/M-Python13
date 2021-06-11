@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on some random Python projects that you may see here and there now and again.
 - 💬 Ask me about something related to what I do.
-- 📫 How to reach me: I'll put a new email designed specifically for GitHub later.
+- 📫 How to reach me: I'll put a new email designed specifically for my Github profile later.
 - ⚠️ Please read the little emoji by my profile picture to see if I'm available!
 
 <!--
