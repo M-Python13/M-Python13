@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on projects that you may see here and there now and again.
 - 💬 Ask me about anything that I will likely be able to answer.
-- 📫 How to reach me: [Discord: M.#1653](https://discord.com/users/756828461254836286)
+- 📫 [Discord: M.#1653](https://discord.com/users/756828461254836286)
 - ⚠️ Please read the little emoji by my profile picture to see if I'm available!
 ### Languages
 <code><img height="20" src="https://raw.githubusercontent.com/M-Python13/M-Python13/main/python.png"></code>
