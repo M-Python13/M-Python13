@@ -1,7 +1,7 @@
 ### INACTIVE FOR THE MOMENT
 
 ## Hi there I'm M.👋
-- Bot Developer for the Angel's Garden, a server on the Discord app. 
+- Former Bot Developer for the Angel's Garden, a server on the Discord app. 
 - Mainly programming in Python but hope to learn more.
 - [Discord: M.#1653](https://discord.com/users/756828461254836286)
 - [Twitter: Mattanimous](https://twitter.com/MPyDisRo13)
