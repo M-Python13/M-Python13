@@ -1,6 +1,6 @@
 ## Hi there I'm M.👋
 - Former Bot Developer for the Angel's Garden, a server on the Discord app. 
-- Mainly programming in Python with very basic knowledge in HTML. 
+- Mainly programming in Python with very(and largely forgotten) basic knowledge in HTML. 
 - [Discord: M.#1653](https://discord.com/users/756828461254836286)
 - [Twitter: Mattanimous](https://twitter.com/MPyDisRo13)
 ### Languages
